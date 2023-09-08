@@ -10,7 +10,7 @@
   * Triple Goalkeeping
   * The floor is lava
   * Not a random forest
-  * Fly me to the ball (co-operative) - two objects cooperates to achieve each one’s goal
+  * Fly me to the ball (co-operative) - two objects cooperate to achieve each one’s goal
   * Target the ball (neural network) - the ball can pop up from unpredictable places
   * Smarter not harder
   * Hack Two-Factor Authentication
