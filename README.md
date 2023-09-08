@@ -4,18 +4,18 @@
 # Key Achievements
 * Implemented a genetic algorithm with different decoding and fitness functions for different goal scenarios
 * Set up various challenging goals to achieve with a customized 2D environment for each, and introduced some global minimae tricks, to finally have the following subprojects: 
- * Target the ball
- * Find the way to the roof
- * Triple Clearance
- * Triple Goalkeeping
- * The floor is lava
- * Not a random forest
- * Fly me to the ball (co-operative) - two objects cooperates to achieve each one’s goal
- * Target the ball (neural network) - the ball can pop up from unpredictable places
- * Smarter not harder
- * Hack Two-Factor Authentication
- * Count Hundred Sheep (neural network) - unpredictable height of a fence to jump over  
- * Butch and Tom and Jerry (with game version) (neural network) - an object avoids two moving balls, one of which is brought from "Target the ball (neural network)"
+  * Target the ball
+  * Find the way to the roof
+  * Triple Clearance
+  * Triple Goalkeeping
+  * The floor is lava
+  * Not a random forest
+  * Fly me to the ball (co-operative) - two objects cooperates to achieve each one’s goal
+  * Target the ball (neural network) - the ball can pop up from unpredictable places
+  * Smarter not harder
+  * Hack Two-Factor Authentication
+  * Count Hundred Sheep (neural network) - unpredictable height of a fence to jump over  
+  * Butch and Tom and Jerry (with game version) (neural network) - an object avoids two moving balls, one of which is brought from "Target the ball (neural network)"
 * Displayed the chromosome manifestation (code decoding) process, which is a customized 2D animation played to see how a decoded chromosome acts, to allow for the calculation of the degree of goal achievement (fitness value)
 * Displayed the chromosomes in each generation along with their fitness values calculated from the manifestation of each, also displayed the crossover and the mutation processes done to them, explaining the development of a new generation 
 * Terminated all the running processes manually, whether for those that were seen to have achieved their goals before reaching the maximum number of generations, or those that were stuck in one generation indefinitely because a certain object's trial did not trigger the elimination criteria which was only about making an error
