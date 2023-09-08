@@ -23,9 +23,7 @@
 
 # Requirements
 `Python 3.7`
-
 `Pygame 2.0`
-
 `Pymunk 6.5`
 
 
