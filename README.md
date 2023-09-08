@@ -3,7 +3,7 @@
 
 # Key Achievements
 * Implemented a genetic algorithm with different decoding and fitness functions for different goal scenarios
-* Set up various challenging goals to achieve with a customized 2D environment for each, and introduced some global minimae tricks, to finally have the following subprojects: 
+* Set up various challenging goals to achieve with a customized 2D environment for each, and introduced some (global minimae) tricks, to finally have the following subprojects: 
   * Target the ball
   * Find the way to the roof
   * Triple Clearance
