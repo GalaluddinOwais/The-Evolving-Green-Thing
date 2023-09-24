@@ -64,10 +64,13 @@ The goal is to keep the three balls within the frame, preventing each from going
 
 #### The Floor Is Lava
 
-The goal is to avoid touching the lower boundary as long as possible (note that the amount of movement is limited)
+The goal is to avoid touching the lower boundary as long as possible (Note that the amount of movement is limited for that "thing")
 
 ![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/137060dc-7c4d-46d3-8be2-714f5455bd0b)
 
+#### Find The Way To The Roof
+
+The goal is to get as close as possible to the upper boundary
 
 ![roof1](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9ef719ed-3113-4ba3-940e-e5e6c71c91c6)
 ![roof2](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/213caef8-1baa-4dd6-945d-2ecf32e16fca)
