@@ -53,6 +53,7 @@ The goal is to get the free as close as possible to the pinned ball
 
 The goal is to get the three balls as close as possible to the side without boundary and beyond
 
+
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
 #### Triple Goalkeeping
