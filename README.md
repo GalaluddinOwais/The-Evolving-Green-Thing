@@ -71,7 +71,7 @@ The goal is to avoid touching the lower boundary as long as possible (Note that 
 #### Find The Way To The Roof
 
 The goal is to get as close as possible to the upper boundary
-
+Rank based selection       Fitness porportionate selection
 ![roof1](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9ef719ed-3113-4ba3-940e-e5e6c71c91c6)
 ![roof2](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/213caef8-1baa-4dd6-945d-2ecf32e16fca)
 
