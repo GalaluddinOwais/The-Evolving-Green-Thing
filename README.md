@@ -60,6 +60,7 @@ The goal is to keep the three balls within the frame, preventing each from going
 #### The Floor Is Lava
 The goal is to avoid touching the lower boundary as long as possible (note that the amount of movement is limited)
 
+
 ![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/137060dc-7c4d-46d3-8be2-714f5455bd0b)
 
 
