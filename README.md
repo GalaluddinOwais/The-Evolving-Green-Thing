@@ -77,9 +77,21 @@ The goal is to get as close as possible to the upper boundary
 ![roof1](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9ef719ed-3113-4ba3-940e-e5e6c71c91c6)
 ![roof2](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/213caef8-1baa-4dd6-945d-2ecf32e16fca)
 
+#### Fly Me To The Ball
+
+The goal for the two "things" is to get as close as possible to each one's ball
+
 ![fly me](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/1c64e2d1-abbb-4a5c-b60b-c55d543a2f64)
 
+#### Count Hundred Sheep (Neural Network)
+
+The goal is to get as close as possible to the opening in the colored boundary and beyond
+
 ![sheep](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/2db49fa8-2ef6-4330-9138-2342f67529c1)
+
+#### Hack Two-Factor Authentication
+
+The goal is to get as close as possible to 
 
 ![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/10e55487-2e58-4324-b597-63fe0eefea29)
 
