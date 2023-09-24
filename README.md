@@ -43,6 +43,33 @@ python physics.py
 
 [Google drive link](https://drive.google.com/file/d/1oK4afoIg-lpiYwr-77rcmSVbHn5sSxIC/view?usp=share_link)
 
+
+![target the ball](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/3b481978-adb7-4feb-9fa0-42322cfd5647)
+
+![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/d0e595dc-5d77-4910-98b1-47cfc15a3f92)
+
+![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/1062ccdd-c36f-4f19-b41c-a6f28a82dad7)
+
+![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/0838a90b-d441-4335-a420-e702b081fcf7)
+
+![roof](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/7250cce6-43b1-4970-80c1-a1ea175864ba)
+
+![Uploading fly me.gif…]()
+
+![sheep](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/7aa66a94-530a-462e-918d-ad55ad8c99ff)
+
+![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/07f1e8da-810b-4a28-855e-d777fe7a9e26)
+
+![target the ball neurallll](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/6820cde9-6680-420f-8ff7-462fd0f722bf)
+
+![not a random forest](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/90bab34d-1135-48c9-8b69-c02307b9223b)
+
+![smarter](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e72881b3-b81a-4f17-8764-ed45e302b890)
+
+![butch](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/cd4306b4-0889-4dc8-ba81-18a345e27f0e)
+![me jerry](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a06b3516-1387-4a09-a0ec-2e6e5b3976f2)
+
+
 # Additional Notes
 #### 
 * In the footsteps of the genetic algorithm in the project, the neural networks in the project have also been implemented from scratch as mathematical equations, which may be seen as a pro or a con.
