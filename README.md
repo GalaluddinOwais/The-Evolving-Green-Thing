@@ -45,10 +45,12 @@ python physics.py
 
 #### Target the ball
 The goal is to hit the free ball to get it as close as possible to the pinned ball
+
 ![target the ball](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0)
 
 #### Triple Clearance
 The goal is to get the three balls as close as possible to the side without boundary and beyond
+
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
 #### Triple Goalkeeping
@@ -57,6 +59,7 @@ The goal is to keep the three balls within the frame, preventing each from going
 
 #### The Floor Is Lava
 The goal is to avoid touching the lower boundary as long as possible (note that the amount of movement is limited)
+
 ![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/137060dc-7c4d-46d3-8be2-714f5455bd0b)
 
 
