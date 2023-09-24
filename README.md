@@ -44,7 +44,7 @@ python physics.py
 [Google drive link](https://drive.google.com/file/d/1oK4afoIg-lpiYwr-77rcmSVbHn5sSxIC/view?usp=share_link)
 
 #### Target the ball
-The goal is to hit the free ball to get it as close as possible to the pinned ball
+The goal is to get the free as close as possible to the pinned ball
 
 ![target the ball](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0)
 
