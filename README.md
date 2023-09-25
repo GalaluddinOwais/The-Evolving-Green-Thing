@@ -60,7 +60,7 @@ The goal is to get the three balls as closer as possible to the side without a b
 
 The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary
 
-![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/f74823b6-1244-4631-96ab-8dfd75e21a76)
+![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e0496d35-9b8a-4586-98a3-0d8714f1bba1)
 
 #### The Floor Is Lava
 
