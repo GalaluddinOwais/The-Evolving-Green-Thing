@@ -20,6 +20,7 @@
 * Displayed the chromosomes in each generation along with their fitness values calculated from the manifestation of each, also displayed the crossover and the mutation processes done to them, explaining the development of a new generation 
 * Terminated all the running processes manually, whether for those that were seen to have achieved their goals before reaching the maximum number of generations, or those that were stuck in one generation indefinitely because a certain object's trial did not trigger the elimination criteria which was only about making an error
 * Achieved all the goals set in each subproject and saved the goal-achieving (the most fitting) chromosomes
+![cooltext443876499696052](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/ca6fd4be-af2f-4187-8502-a5e74f78e73f)
 
 # Requirements
 `Python 3.7`
@@ -53,12 +54,12 @@ The goal is to get the free ball as close as possible to the pinned ball
 
 The goal is to get the three balls as close as possible to the side without a boundary and beyond
 
-
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
 #### Triple Goalkeeping
 
 The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary
+
 ![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e0496d35-9b8a-4586-98a3-0d8714f1bba1)
 
 #### The Floor Is Lava
@@ -74,7 +75,6 @@ The goal is to avoid contact with the lower boundary for as long as possible
 The goal is to get as high as possible
 
 <p align="center">
-![cooltext443876499696052](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/84cdb0c9-1219-49c8-9fba-c9d2b455925c)
 
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
 </p>
