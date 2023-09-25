@@ -46,9 +46,7 @@ python physics.py
 #### Target The Ball
 
 The goal is to get the free ball as close as possible to the pinned ball
-<p align="center">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/13d87c21-5339-4754-9cd4-97aab05f6ff6" width="40%" height="40%">
-</p>
 
 #### Triple Clearance
 
@@ -74,13 +72,14 @@ The goal is to avoid contact with the lower boundary for as long as possible
 #### Find The Way To The Roof
 
 The goal is to get as high as possible
+<p align="center">
 
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
 
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/60581a47-acc8-4783-92a4-f163af41852a" width="40%" height="40%">
-
+</p>
 #### Fly Me To The Ball
 
 The goal for the two "things" is to get as close as possible to each one's ball
@@ -126,13 +125,14 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 #### Butch and Tom and Jerry (Neural Network)
 
 The goal is to avoid the moving balls for as long as possible
+<p align="center">
 
 :::::::::::::::::::::::::::::::::::: The intelligent agent :::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::::::::::::::::::
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="40%" height="40%">
 
-
+</p>
 
 # Additional Notes
 #### 
