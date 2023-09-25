@@ -121,7 +121,7 @@ The goal is to avoid the moving balls for as long as possible
 
 :::::::::::::::::::::::: The intelligent agent ::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::::::::
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" size="30%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" size="90%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" size="30%">
 
 
