@@ -137,18 +137,17 @@ The goal is to avoid the moving balls for as long as possible
 </p>
 
 
-<p align="center">
-  <strong>The intelligent agent</strong>
-</p>
-<p align="center">
-  <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="40%" height="40%">
-</p>
-<p align="center">
-  <em>Poor me</em>
-</p>
-<p align="center">
-  <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="40%" height="40%">
-</p>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <p><strong>The intelligent agent</strong></p>
+    <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="80%" height="80%">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p><em>Poor me</em></p>
+    <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="80%" height="80%">
+  </div>
+</div>
+
 
 # Additional Notes
 #### 
