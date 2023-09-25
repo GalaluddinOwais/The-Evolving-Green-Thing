@@ -22,6 +22,7 @@
 * Achieved all the goals set in each subproject and saved the goal-achieving (the most fitting) chromosomes
 
 
+
 # Requirements
 `Python 3.7`
 `Pygame 2.0`
@@ -75,7 +76,7 @@ The goal is to avoid contact with the lower boundary for as long as possible
 The goal is to get as high as possible
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/4055f8d5-1c6e-4c96-9e82-7cc131c32726" width="40%" height="40%">
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/8d81e11c-b398-4571-b6dd-b9c48d375f76" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a312356f-f5a0-4d64-8348-e182772f80d8" width="40%" height="40%">
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/60581a47-acc8-4783-92a4-f163af41852a" width="40%" height="40%">
