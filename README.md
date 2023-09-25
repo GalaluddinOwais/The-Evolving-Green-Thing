@@ -127,28 +127,18 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 #### Butch and Tom and Jerry (Neural Network)
 
 The goal is to avoid the moving balls for as long as possible
-
+    
+<div>
 <p align="center">
-:::::::::::::::::::::::::::::::::::: The intelligent agent :::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: The intelligent agent ::::::::::::::::::::::::::::::::::::
 </p>
-<p align="center">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="40%" height="40%">
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="40%" height="40%">
+</div>
+<div>
+<p align="center">
+::::::::::::::::::::::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::::::::::::::::::
 </p>
-
-<div style="display: flex; justify-content: space-between;">
-
-    <div style="width: 48%; text-align: center;">
-        <p>Sentence 1</p>
-        <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="40%" height="40%">
-    </div>
-    
-
-    <div style="width: 48%; text-align: center;">
-        <p>Sentence 2</p>
-        <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="40%" height="40%">
-    </div>
-    
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385" width="40%" height="40%">
 </div>
 
 
