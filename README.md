@@ -43,15 +43,15 @@ python physics.py
 
 [Google drive link](https://drive.google.com/file/d/1oK4afoIg-lpiYwr-77rcmSVbHn5sSxIC/view?usp=share_link)
 
-#### Target the ball
+#### Target The Ball
 
-The goal is to get the free ball as closer as possible to the pinned ball
+The goal is to get the free ball as close as possible to the pinned ball
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0" width="40%" height="40%">
 
 #### Triple Clearance
 
-The goal is to get the three balls as closer as possible to the side without a boundary and beyond
+The goal is to get the three balls as close as possible to the side without a boundary and beyond
 
 
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
@@ -72,7 +72,7 @@ The goal is to avoid contact with the lower boundary for as long as possible
 
 #### Find The Way To The Roof
 
-The goal is to get as higher as possible
+The goal is to get as high as possible
 
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
 
@@ -114,7 +114,7 @@ The goal for the green "things" is to extend their length as possible while stil
 
 #### Smarter Not Harder
 
-The goal is to get as higher as possible while exerting as less force as possible
+The goal is to get as high as possible while exerting as low force as possible
 
 In other words, the goal is to maximize the sum of the height reached and the force preserved
 
