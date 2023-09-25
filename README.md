@@ -20,7 +20,7 @@
 * Displayed the chromosomes in each generation along with their fitness values calculated from the manifestation of each, also displayed the crossover and the mutation processes done to them, explaining the development of a new generation 
 * Terminated all the running processes manually, whether for those that were seen to have achieved their goals before reaching the maximum number of generations, or those that were stuck in one generation indefinitely because a certain object's trial did not trigger the elimination criteria which was only about making an error
 * Achieved all the goals set in each subproject and saved the goal-achieving (the most fitting) chromosomes
-![cooltext443876499696052](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/ca6fd4be-af2f-4187-8502-a5e74f78e73f)
+
 
 # Requirements
 `Python 3.7`
@@ -73,15 +73,12 @@ The goal is to avoid contact with the lower boundary for as long as possible
 #### Find The Way To The Roof
 
 The goal is to get as high as possible
-
-<p align="center">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/ca6fd4be-af2f-4187-8502-a5e74f78e73f" width="40%" height="40%">
 
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
-</p>
-<p align="center">
+
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/60581a47-acc8-4783-92a4-f163af41852a" width="40%" height="40%">
-</p>
 
 #### Fly Me To The Ball
 
