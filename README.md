@@ -110,7 +110,7 @@ The goal is to get as close as possible to the pinned ball, wherever the pinned 
 
 The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/67e190dc-3ade-4e40-b4e7-dcc4eb988eb7" width="40%" height="40%">
 
 #### Smarter Not Harder
 
