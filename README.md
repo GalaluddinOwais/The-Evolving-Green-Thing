@@ -78,7 +78,7 @@ The goal is to get as high as possible
 
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/42a95f9d-f91d-4b40-ba20-2b0f3c9e3a34" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/60581a47-acc8-4783-92a4-f163af41852a" width="40%" height="40%">
 
 #### Fly Me To The Ball
 
