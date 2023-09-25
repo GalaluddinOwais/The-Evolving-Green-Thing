@@ -128,7 +128,7 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 The goal is to avoid the moving balls for as long as possible
 
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/cf07aeeb-49b0-4143-86e3-2a5453e4fb9e" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a071a8eb-70cd-4f2a-b952-3441f541fdb5" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/61e51363-7188-4ce8-b478-ef598264773a" width="40%" height="40%">
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8" width="40%" height="40%">
