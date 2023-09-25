@@ -116,7 +116,7 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599" height="20%" width="20%">
 
-Butch and Tom and Jerry (Neural Network)
+#### Butch and Tom and Jerry (Neural Network)
 
 The goal is to avoid the moving balls for as long as possible
 
