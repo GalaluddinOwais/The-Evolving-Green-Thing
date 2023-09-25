@@ -70,7 +70,7 @@ The goal is to avoid contact with the lower boundary as long as possible (Note t
 
 #### Find The Way To The Roof
 
-The goal is to get as close as higher as possible
+The goal is to get as higher as possible
 
 :::::::::::::::::::: Rank based selection ::::::::::::::::::::: :::::::::: Fitness porportionate selection :::::::::::
 
