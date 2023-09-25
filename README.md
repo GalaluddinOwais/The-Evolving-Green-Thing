@@ -45,26 +45,26 @@ python physics.py
 
 #### Target the ball
 
-The goal is to get the free as close as possible to the pinned ball
+The goal is to get the free ball as closer as possible to the pinned ball
 
 ![target the ball](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0)
 
 #### Triple Clearance
 
-The goal is to get the three balls as close as possible to the side without boundary and beyond
+The goal is to get the three balls as closer as possible to the side without a boundary and beyond
 
 
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
 #### Triple Goalkeeping
 
-The goal is to keep the three balls within the frame, preventing each from going beyond the side without boundary
+The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary
 
 ![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/f584ef5e-8258-4405-a717-d46b022a52c5)
 
 #### The Floor Is Lava
 
-The goal is to avoid contact with the lower boundary as long as possible (Note that the amount of movement is limited for that type of "thing")
+The goal is to avoid contact with the lower boundary for as long as possible (Note that the amount of movement is limited for that type of "thing")
 
 ![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/137060dc-7c4d-46d3-8be2-714f5455bd0b)
 
@@ -91,7 +91,7 @@ The goal is to get as close as possible to the opening and beyond, wherever the 
 
 #### Hack Two-Factor Authentication
 
-The goal is to get as close as possible to the openings and beyond (The learning process ran for each openings situation at a time) 
+The goal is to get as close as possible to the openings and beyond (The learning process was executed for each openings situation at a time) 
 
 ![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/10e55487-2e58-4324-b597-63fe0eefea29)
 
@@ -116,7 +116,7 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 
 Butch and Tom and Jerry (Neural Network)
 
-The goal is to avoid the moving balls for three minutes
+The goal is to avoid the moving balls for as long as possible
 
 :::::::::::::::::: The intelligent agent ::::::::::::::::::::: ::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::
 
