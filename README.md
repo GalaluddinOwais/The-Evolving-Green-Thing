@@ -47,7 +47,7 @@ python physics.py
 
 The goal is to get the free ball as close as possible to the pinned ball
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/13d87c21-5339-4754-9cd4-97aab05f6ff6" width="40%" height="40%">
 
 #### Triple Clearance
 
