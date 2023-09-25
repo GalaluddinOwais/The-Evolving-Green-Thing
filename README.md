@@ -115,7 +115,9 @@ The goal for the green "things" is to extend their length as possible while stil
 #### Smarter Not Harder
 
 The goal is to get as higher as possible while exerting as less force as possible
+
 In other words, the goal is to maximize the sum of the height reached and the force preserved
+
 (The paler color of the "thing" indicates less force applied)
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599" height="20%" width="20%">
