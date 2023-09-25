@@ -47,7 +47,7 @@ python physics.py
 
 The goal is to get the free ball as closer as possible to the pinned ball
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0" width="120%" height="120%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/757b47ea-6b67-4c87-88f2-d6b14a3797c0" width="40%" height="40%">
 
 #### Triple Clearance
 
@@ -82,7 +82,7 @@ The goal is to get as higher as possible
 
 The goal for the two "things" is to get as close as possible to each one's ball
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/1c64e2d1-abbb-4a5c-b60b-c55d543a2f64" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/1c64e2d1-abbb-4a5c-b60b-c55d543a2f64" width="120%" height="120%">
 
 #### Count Hundred Sheep (Neural Network)
 
