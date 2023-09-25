@@ -118,7 +118,7 @@ Butch and Tom and Jerry (Neural Network)
 
 The goal is to avoid the moving balls for three minutes
 
-::::::::::::::::::: The intelligent agent :::::::::::::::::::::: ::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::
+:::::::::::::::::: The intelligent agent ::::::::::::::::::::: ::::::::::::::::::::::::::::: Poor me ::::::::::::::::::::::::::::::::
 
 
 ![butch](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8)
