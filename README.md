@@ -85,13 +85,13 @@ The goal for the two "things" is to get as close as possible to each one's ball
 
 #### Count Hundred Sheep (Neural Network)
 
-The goal is to get as close as possible to the opening in the boundary and beyond, wherever the opening may be
+The goal is to get as close as possible to the opening and beyond, wherever the opening may be
 
 ![sheep](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/2db49fa8-2ef6-4330-9138-2342f67529c1)
 
 #### Hack Two-Factor Authentication
 
-The goal is to get as close as possible to the openings in the two boundaries and beyond (The learning process was run to find a solution for each openings situation at a time) 
+The goal is to get as close as possible to the openings and beyond (The learning process was run to find a solution for each openings situation at a time) 
 
 ![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/10e55487-2e58-4324-b597-63fe0eefea29)
 
