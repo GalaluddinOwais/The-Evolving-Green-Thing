@@ -74,7 +74,7 @@ The goal is to avoid contact with the lower boundary for as long as possible
 
 The goal is to get as high as possible
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/f9980495-f49c-431b-8051-f89480df3daf" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/4055f8d5-1c6e-4c96-9e82-7cc131c32726" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/ef68609a-c987-4ebb-90ed-54cf9c122878" width="40%" height="40%">
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
