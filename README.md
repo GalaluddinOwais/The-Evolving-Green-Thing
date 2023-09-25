@@ -84,7 +84,7 @@ The goal is to get as higher as possible
 
 The goal for the two "things" is to get as close as possible to each one's ball
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/1c64e2d1-abbb-4a5c-b60b-c55d543a2f64" width="120%" height="120%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a117075d-14d2-4866-a26f-bd364a7270e1" width="120%" height="120%">
 
 #### Count Hundred Sheep (Neural Network)
 
