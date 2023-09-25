@@ -88,7 +88,7 @@ The goal for the two "things" is to get as close as possible to each one's ball
 
 The goal is to get as close as possible to the opening and beyond, wherever the opening may be
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/2db49fa8-2ef6-4330-9138-2342f67529c1" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/2db49fa8-2ef6-4330-9138-2342f67529c1" width="36%" height="36%">
 
 #### Hack Two-Factor Authentication
 
