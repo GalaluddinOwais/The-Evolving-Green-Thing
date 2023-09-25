@@ -75,6 +75,8 @@ The goal is to avoid contact with the lower boundary for as long as possible
 The goal is to get as high as possible
 
 <p align="center">
+ ![cooltext443876499696052](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/84cdb0c9-1219-49c8-9fba-c9d2b455925c)
+
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
 </p>
 <p align="center">
