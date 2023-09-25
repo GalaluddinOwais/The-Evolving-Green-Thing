@@ -100,20 +100,21 @@ The goal is to get as close as possible to the openings and beyond (The learning
 
 The goal is to get as close as possible to the pinned ball, wherever the pinned ball may be
 
-![target the ball neurallll](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e)
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e" width="40%" height="40%">
 
 #### Not a Random Forest
 
 The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame
 
-![not a random forest](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9f2a669d-e1f0-4127-8786-b20fd3bd6658)
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e" width="40%" height="40%">
 
 #### Smarter Not Harder
 
 The goal is to get as higher as possible while exerting as less force as possible
 In other words, the goal is to maximize the sum of the height reached and the force preserved
 (The paler color of the thing indicates less force applied)
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599" height="30%" width="30%">
+
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599" height="20%" width="20%">
 
 Butch and Tom and Jerry (Neural Network)
 
