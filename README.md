@@ -91,21 +91,34 @@ The goal is to get as close as possible to the opening in the boundary and beyon
 
 #### Hack Two-Factor Authentication
 
-The goal is to get as close as possible to the openinings in the two boundaries and beyond (Ran the learning process and found a solution for each openings positions at a time) 
+The goal is to get as close as possible to the openings in the two boundaries and beyond (The learning process was run to find a solution for each openings situation at a time) 
 
 ![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/10e55487-2e58-4324-b597-63fe0eefea29)
 
-Target The Ball (Neural Network)
+#### Target The Ball (Neural Network)
 
 The goal is to get as close as possible to the pinned ball, wherever the pinned ball may be
 
 ![target the ball neurallll](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e)
 
+#### Not a Random Forest
+
+The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame
 
 ![not a random forest](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9f2a669d-e1f0-4127-8786-b20fd3bd6658)
 
+#### Smarter Not Harder
+
+The goal is to get as higher as possible while exerting as less force as possible
+In other words, the goal is to maximize the sum of the height reached and the force preserved
+(The paler color of the thing indicates less force applied)
 ![smarter](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599)
 
+Butch and Tom and Jerry (Neural Network)
+
+The goal is to avoid the moving balls for three minutes
+
+::::::::::::::::::: The intelligent agent :::::::::::::::::::::: :::::::::::: Poor me :::::::::::::
 ![butch](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/41e071f8-2434-4bc0-bc5f-18d8c01869d8)
 ![me jerry](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e14fbdd4-ea9c-478d-9ca2-0e6940538385)
 
