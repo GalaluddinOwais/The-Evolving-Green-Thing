@@ -77,7 +77,7 @@ The goal is to get as high as possible
 :::::::::::::::::::::::::::::::::::: Rank based selection ::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::: Fitness porportionate selection ::::::::::::::::::::::::::
 
 
-<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/9ef719ed-3113-4ba3-940e-e5e6c71c91c6" width="40%" height="40%">
+<img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/213caef8-1baa-4dd6-945d-2ecf32e16fca" width="40%" height="40%">
 
 #### Fly Me To The Ball
