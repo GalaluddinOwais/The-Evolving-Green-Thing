@@ -54,7 +54,7 @@ The goal is to get the free ball as close as possible to the pinned ball
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/13d87c21-5339-4754-9cd4-97aab05f6ff6" width="40%" height="40%">
 
-#### Triple Clearance
+### Triple Clearance
 
 The goal is to get the three balls as close as possible to the side without a boundary and beyond
 
