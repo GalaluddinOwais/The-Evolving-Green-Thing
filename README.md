@@ -98,7 +98,7 @@ The goal is to get as close as possible to the opening and beyond, whatever the 
 
 ### Hack Two-Factor Authentication
 
-The goal is to get as close as possible to the openings and beyond 
+The goal is to get the free ball as close as possible to the openings and beyond before a specific time period elapses
 
 (The learning process was executed for each openings situation at a time) 
 
