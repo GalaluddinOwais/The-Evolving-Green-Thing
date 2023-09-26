@@ -1,4 +1,4 @@
-<span style="font-size: 72px; font-weight: bold;">The Evolving Green Thing: A Journey of Reinforcement Learning</span>
+<span style="font-size: 40px; font-weight: bold;">The Evolving Green Thing: A Journey of Reinforcement Learning</span>
 
 
 # About the project
