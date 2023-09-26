@@ -50,25 +50,25 @@ python physics.py
 
 ### Target The Ball
 
-The goal is to get the free ball as close as possible to the pinned ball
+The goal is to get the free ball as close as possible to the pinned ball before a specific time period elapses
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/13d87c21-5339-4754-9cd4-97aab05f6ff6" width="40%" height="40%">
 
 ### Triple Clearance
 
-The goal is to get the three balls as close as possible to the side without a boundary and beyond
+The goal is to get the three balls as close as possible to the side without a boundary and beyond before a specific time period elapses
 
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
 ### Triple Goalkeeping
 
-The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary
+The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary until a specific time period elapses
 
 ![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e0496d35-9b8a-4586-98a3-0d8714f1bba1)
 
 ### The Floor Is Lava
 
-The goal is to avoid contact with the lower boundary for as long as possible 
+The goal is to avoid contact with the lower boundary for as long as possible before a specific time period elapses
 
 (Note that the amount of movement is limited for that type of "thing")
 
@@ -76,7 +76,7 @@ The goal is to avoid contact with the lower boundary for as long as possible
 
 ### Find The Way To The Roof
 
-The goal is to get as high as possible
+The goal is to get as high as possible before a specific time period elapses
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/4055f8d5-1c6e-4c96-9e82-7cc131c32726" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a312356f-f5a0-4d64-8348-e182772f80d8" width="40%" height="40%">
@@ -86,7 +86,7 @@ The goal is to get as high as possible
 
 ### Fly Me To The Ball
 
-The goal for the two "things" is to get as close as possible to each one's ball
+The goal for the two "things" is to get as close as possible to each one's ball before a specific time period elapses
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a117075d-14d2-4866-a26f-bd364a7270e1" width="60%" height="60%">
 
@@ -112,15 +112,15 @@ The goal is to get as close as possible to the pinned ball, wherever the pinned 
 
 ### Not a Random Forest
 
-The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame
+The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame quickly before a specific time period elapses
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/67e190dc-3ade-4e40-b4e7-dcc4eb988eb7" width="40%" height="40%">
 
 ### Smarter Not Harder
 
-The goal is to get as high as possible while exerting as low force as possible
+The goal is to get as high as possible while exerting as low force as possible before a specific time period elapses
 
-In other words, the goal is to maximize the sum of the height reached and the force preserved
+In other words, the goal is to maximize the sum of the highest height reached and the force preserved
 
 (The paler color of the "thing" indicates less force applied)
 
