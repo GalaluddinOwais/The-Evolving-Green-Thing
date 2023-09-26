@@ -48,7 +48,7 @@ python physics.py
 
 [Google drive link](https://drive.google.com/file/d/1oK4afoIg-lpiYwr-77rcmSVbHn5sSxIC/view?usp=share_link)
 
-#### Target The Ball
+### Target The Ball
 
 The goal is to get the free ball as close as possible to the pinned ball
 
@@ -60,13 +60,13 @@ The goal is to get the three balls as close as possible to the side without a bo
 
 ![clearamce](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/bad4354b-2b18-4e53-9fcd-e958d949d220)
 
-#### Triple Goalkeeping
+### Triple Goalkeeping
 
 The goal is to keep the three balls within the frame, preventing each from going beyond the side without a boundary
 
 ![goalkeeping](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/e0496d35-9b8a-4586-98a3-0d8714f1bba1)
 
-#### The Floor Is Lava
+### The Floor Is Lava
 
 The goal is to avoid contact with the lower boundary for as long as possible 
 
@@ -74,7 +74,7 @@ The goal is to avoid contact with the lower boundary for as long as possible
 
 ![lava](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/137060dc-7c4d-46d3-8be2-714f5455bd0b)
 
-#### Find The Way To The Roof
+### Find The Way To The Roof
 
 The goal is to get as high as possible
 
@@ -84,19 +84,19 @@ The goal is to get as high as possible
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/c1e24f1d-acfa-48c2-ad02-dffb3ed58731" width="40%" height="40%">
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/60581a47-acc8-4783-92a4-f163af41852a" width="40%" height="40%">
 
-#### Fly Me To The Ball
+### Fly Me To The Ball
 
 The goal for the two "things" is to get as close as possible to each one's ball
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/a117075d-14d2-4866-a26f-bd364a7270e1" width="60%" height="60%">
 
-#### Count Hundred Sheep (Neural Network)
+### Count Hundred Sheep (Neural Network)
 
 The goal is to get as close as possible to the opening and beyond, whatever the location of the opening is
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/2db49fa8-2ef6-4330-9138-2342f67529c1" width="38%" height="38%">
 
-#### Hack Two-Factor Authentication
+### Hack Two-Factor Authentication
 
 The goal is to get as close as possible to the openings and beyond 
 
@@ -104,19 +104,19 @@ The goal is to get as close as possible to the openings and beyond
 
 ![hack](https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/10e55487-2e58-4324-b597-63fe0eefea29)
 
-#### Target The Ball (Neural Network)
+### Target The Ball (Neural Network)
 
 The goal is to get as close as possible to the pinned ball, wherever the pinned ball pops up from
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/33bf0734-0d9b-4eba-8975-67bef6239f1e" width="40%" height="40%">
 
-#### Not a Random Forest
+### Not a Random Forest
 
 The goal for the green "things" is to extend their length as possible while still allowing the gray "thing" to drop out from the frame
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/67e190dc-3ade-4e40-b4e7-dcc4eb988eb7" width="40%" height="40%">
 
-#### Smarter Not Harder
+### Smarter Not Harder
 
 The goal is to get as high as possible while exerting as low force as possible
 
@@ -126,7 +126,7 @@ In other words, the goal is to maximize the sum of the height reached and the fo
 
 <img src="https://github.com/GalaluddinOwais/The-Evolving-Green-Thing-A-REINFORCEMENT-LEARNING-JOURNEY/assets/111979327/86b50b00-9b41-4520-b539-23fe05800599" height="20%" width="20%">
 
-#### Butch and Tom and Jerry (Neural Network)
+### Butch and Tom and Jerry (Neural Network)
 
 The goal is to avoid the moving balls for as long as possible
 
@@ -141,7 +141,7 @@ The goal is to avoid the moving balls for as long as possible
 
 
 # Additional Notes
-#### 
+
 * In the footsteps of the genetic algorithm in the project, the neural networks in the project were also implemented from scratch as mathematical equations, which may be seen as a pro or a con.
 * One drawback of the project is that it doesn't follow a best practice in the training process, as it doesn't run the manifestation of all chromosomes in a generation in parallel. While this is time-consuming, it is suitable for less powerful processors.
 * One other drawback of the project is that it contains some code repetition that could be better modularized.
