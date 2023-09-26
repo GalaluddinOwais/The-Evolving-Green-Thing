@@ -1,5 +1,5 @@
 # About the project
-##### This project aims to demonstrate the power of evolution using genetic algorithm by displaying 2D animations of objects while having their chromosome's genes manifested to check how fitting they are, according to which a new generation of objects develops, so it appears like the objects are undergoing trial and error evolution over the generations to learn to achieve a specific predefined goal
+This project aims to demonstrate the power of evolution using genetic algorithm by displaying 2D animations of objects while having their chromosome's genes manifested to check how fitting they are, according to which a new generation of objects develops, so it appears like the objects are undergoing trial and error evolution over the generations to learn to achieve a specific predefined goal
 
 # Key Achievements
 * Implemented a genetic algorithm with different decodings and fitness functions for different goal scenarios
