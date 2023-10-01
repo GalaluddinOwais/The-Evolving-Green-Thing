@@ -145,3 +145,4 @@ The goal is to avoid the two moving balls for as long as possible
 * In the footsteps of the genetic algorithm in the project, the neural networks in the project were also implemented from scratch as mathematical equations, which may be seen as a pro or a con.
 * One drawback of the project is that it doesn't follow a best practice in the training process, as it doesn't run the manifestation of all chromosomes in a generation in parallel. While this is time-consuming, it is suitable for less powerful processors.
 * One other drawback of the project is that it contains some code repetition that could be better modularized.
+* It all started from here: [4-Queens Solver](https://github.com/GalaluddinOwais/4-Queens-Solver).
